@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @odedshchori
 - 👀 I’m here...
 - 🌱 there...
-- 💞️ and almost (everywhere)
+- 💞️ (and almost) everywhere
 
 <!---
 odedshchori/odedshchori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
